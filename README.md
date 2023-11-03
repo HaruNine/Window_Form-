@@ -19,6 +19,7 @@
 
 ## 기능 2
 ### 기본화면
+(그냥 아무숫자 넣은거)
 ![form3](https://github.com/HaruNine/Window_Form_example/assets/149753122/1fd72531-3164-4c07-890e-956a20234a0d)
 <br/><br/>
 ### 선택시
