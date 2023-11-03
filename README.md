@@ -17,9 +17,8 @@
 ![form2_3](https://github.com/HaruNine/Window_Form_example/assets/149753122/27b63cf8-a97d-4c31-9027-cd2f3123def0)
 <br/><br/><br/><br/><br/>
 
-## 기능 2
+## 기능 2 (그냥 아무숫자 넣은거)
 ### 기본화면
-(그냥 아무숫자 넣은거)
 ![form3](https://github.com/HaruNine/Window_Form_example/assets/149753122/1fd72531-3164-4c07-890e-956a20234a0d)
 <br/><br/>
 ### 선택시
