@@ -1,4 +1,4 @@
-# Window_Form 예제 합쳐본거
+# Window_Form 예제
 
 ## example1
 1. 이름, 전공, 날짜 입력
