@@ -1,4 +1,4 @@
-# Window_Form 예제 합쳐본거
+# Window_Form 예제 1
 
 ## 처음화면
 ![form1](https://github.com/HaruNine/Window_Form_example/assets/149753122/f465cf70-d30f-4184-9c8d-ace591afe403)
@@ -17,7 +17,7 @@
 ![form2_3](https://github.com/HaruNine/Window_Form_example/assets/149753122/27b63cf8-a97d-4c31-9027-cd2f3123def0)
 <br/><br/><br/><br/><br/>
 
-## 기능 2 (그냥 아무숫자 넣은거)
+## 기능 2
 ### 기본화면
 ![form3](https://github.com/HaruNine/Window_Form_example/assets/149753122/1fd72531-3164-4c07-890e-956a20234a0d)
 <br/><br/>
